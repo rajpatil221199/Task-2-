@@ -1,2 +1,2 @@
 # Task-2-
-tic toc tic
+tic-tac-toe
